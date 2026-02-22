@@ -2,9 +2,9 @@
 
 html {
   /* Scales the layout to 90% */
-  zoom: 0.7; 
+  zoom: 0.8; 
   /* Fallback for browsers that don't support zoom (like Firefox) */
-  -moz-transform: scale(0.7);
+  -moz-transform: scale(0.8);
   -moz-transform-origin: 0 0;
 }
 @layer utilities {
