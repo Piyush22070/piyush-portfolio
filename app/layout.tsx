@@ -61,7 +61,7 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: "https://pbs.twimg.com/profile_images/1969875126146740224/MgyHX9EC_400x400.jpg" },
+      { url: "images/black.png" },
       { url: "https://pbs.twimg.com/profile_images/1969875126146740224/MgyHX9EC_400x400.jpg", sizes: "32x32", type: "image/png" },
     ],
     apple: [
